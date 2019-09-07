@@ -119,7 +119,7 @@ credit:         controller artwork originally from Carbon theme / variation of T
       </image>
       <textlist name="gamelist">
          <pos>0.009 0.225</pos>
-         <size>0.45 0.65</size>
+         <size>0.46 0.65</size>
          <alignment>left</alignment>
          <horizontalMargin>0.038</horizontalMargin>
          <zIndex>40</zIndex>
