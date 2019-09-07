@@ -1,5 +1,7 @@
 <h2>Theme for Retroflag GPI Case - 320px x 240px </h2>
 
+![Screenshot1](/screenshots/architect-main.png)
+
 Variation of the TFT theme by anthony. 
 
 <h3>Credit: </h3>
