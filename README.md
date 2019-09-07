@@ -4,6 +4,8 @@
 
 Variation of the TFT theme by anthony. 
 
+Works for Basic & Detail View
+
 <h3>Credit: </h3>
 
 Controller artwork originally from Carbon theme
