@@ -17,3 +17,5 @@ OpenSans Font from Google Fonts
 ![Screenshot2](/screenshots/architect-detail-list.png)
 
 ![Screenshot3](/screenshots/architect-basic-list.png)
+
+![Screenshot4](/screenshots/background-grid.png)
