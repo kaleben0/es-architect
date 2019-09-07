@@ -58,8 +58,8 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <maxSize>0.5625 0.085</maxSize>
       </image>
       <textlist name="gamelist">
-         <pos>0.05 0.225</pos>
-         <size>0.90 0.65</size>
+         <pos>0.09 0.225</pos>
+         <size>0.85 0.65</size>
          <selectorColor>00008bff</selectorColor>
          <selectedColor>ffffff</selectedColor>
          <primaryColor>eaeaea</primaryColor>
@@ -118,8 +118,8 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <zIndex>30</zIndex>
       </image>
       <textlist name="gamelist">
-         <pos>0 0.225</pos>
-         <size>0.50 0.65</size>
+         <pos>0.009 0.225</pos>
+         <size>0.45 0.65</size>
          <alignment>left</alignment>
          <horizontalMargin>0.038</horizontalMargin>
          <zIndex>40</zIndex>
