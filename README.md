@@ -9,3 +9,9 @@ Controller artwork originally from Carbon theme
 Variation of TFT by anthony
 
 OpenSans Font from Google Fonts
+
+Screenshots
+
+![Screenshot1](/screenshots/architect-main.png)
+
+![Screenshot2](/screenshots/architect-list.png)
