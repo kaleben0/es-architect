@@ -20,14 +20,7 @@ OpenSans Font from Google Fonts
 
 ![Screenshot1](/screenshots/architect-main.png)
 
-<h4>Detailed View</h4>
+| Detailed View | Basic View | Detailed w/o Box Art
+| --- | --- | ---
+| ![Screenshot2](/screenshots/architect-detail-list.png) | ![Screenshot3](/screenshots/architect-basic-list.png) | ![Screenshot4](/screenshots/background-grid.png)
 
-![Screenshot2](/screenshots/architect-detail-list.png)
-
-<h4>Basic View</h4>
-
-![Screenshot3](/screenshots/architect-basic-list.png)
-
-<h4>Detailed w/o Box Art</h4>
-
-![Screenshot4](/screenshots/background-grid.png)
