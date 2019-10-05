@@ -6,13 +6,11 @@
 
 Variation of the TFT theme by [anthony](https://github.com/anthonycaccese/es-theme-tft). 
 
-Works for Basic & Detail View
-
-<h3>Credit: </h3>
-
 Controller artwork originally from Carbon theme
 
 OpenSans Font from Google Fonts
+
+Works for Basic & Detail View
 
 <h3>Screenshots</h3>
 
