@@ -1,4 +1,6 @@
-<h2>Theme for Retroflag GPI Case - 320px x 240px </h2>
+![Logo1](/_inc/images/logo.png)
+
+<h1>Architect Emulationstation Theme for Retroflag GPI </h1>
 
 ![Title Screen](https://i.imgur.com/SZhhMCn.png "Main Screen-Architect")
 
