@@ -4,15 +4,13 @@
 
 ![Title Screen](https://i.imgur.com/SZhhMCn.png "Main Screen-Architect")
 
-Variation of the TFT theme by anthony. 
+Variation of the TFT theme by [anthony](https://github.com/anthonycaccese/es-theme-tft). 
 
 Works for Basic & Detail View
 
 <h3>Credit: </h3>
 
 Controller artwork originally from Carbon theme
-
-Variation of TFT by anthony
 
 OpenSans Font from Google Fonts
 
