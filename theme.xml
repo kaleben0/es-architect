@@ -33,10 +33,10 @@ credit:         controller artwork originally from Carbon theme / variation of T
       </image>
       <carousel name="systemcarousel">
          <type>vertical_wheel</type>
-         <pos>0 0.74</pos>
-         <size>1 0.075</size>
+         <pos>0 0.68</pos>
+         <size>1 0.15</size>
          <color>00000000</color>
-         <logoSize>0.5625 0.075</logoSize>
+         <logoSize>0.6 0.275</logoSize>
          <logoScale>1.5</logoScale>
          <maxLogoCount>1</maxLogoCount>
          <zIndex>5</zIndex>
