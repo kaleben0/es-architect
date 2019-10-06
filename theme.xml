@@ -37,7 +37,7 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <size>1 0.075</size>
          <color>00000000</color>
          <logoSize>0.5625 0.075</logoSize>
-         <logoScale>1.2</logoScale>
+         <logoScale>1.5</logoScale>
          <maxLogoCount>1</maxLogoCount>
          <zIndex>5</zIndex>
       	
