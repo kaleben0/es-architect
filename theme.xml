@@ -40,7 +40,6 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <logoScale>1.5</logoScale>
          <maxLogoCount>1</maxLogoCount>
          <zIndex>5</zIndex>
-      	
 	</carousel>
       <text name="systemInfo">
          <backgroundColor>00000000</backgroundColor>
@@ -51,11 +50,11 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <zIndex>5</zIndex>
       </text>
    </view>
-   <view name="basic,detailed,video">
+   <view name="basic,video">
       <image name="logo">
-         <origin>.5 0</origin>
-         <pos>0.5 0.075</pos>
-         <maxSize>0.5625 0.085</maxSize>
+         <origin>0.5 0</origin>
+         <pos>0.52 0.075</pos>
+         <maxSize>0.5825 0.1</maxSize>
       </image>
       <textlist name="gamelist">
          <pos>0.09 0.225</pos>
@@ -83,13 +82,13 @@ credit:         controller artwork originally from Carbon theme / variation of T
       </rating>
       <image name="logo">
          <origin>0 0</origin>
-         <pos>0.03075 0.12</pos>
+         <pos>-0.08 0.05</pos>
          <zIndex>40</zIndex>
-      <maxSize>0.42 0.075</maxSize>
+      	 <maxSize>0.6 0.11</maxSize>
 	</image>
       <image name="md_image">
          <origin>0 0</origin>
-         <pos>.5 0</pos>
+         <pos>0.5 0</pos>
          <size>0 1</size>
          <zIndex>35</zIndex>
       </image>
@@ -123,24 +122,14 @@ credit:         controller artwork originally from Carbon theme / variation of T
          <alignment>left</alignment>
          <horizontalMargin>0.038</horizontalMargin>
          <zIndex>40</zIndex>
+         <selectorColor>00008bff</selectorColor>
+         <selectedColor>ffffff</selectedColor>
+         <primaryColor>eaeaea</primaryColor>
+         <secondaryColor>eaeaea</secondaryColor>
+         <fontPath>./_inc/fonts/OpenSans-Regular.ttf</fontPath>
+         <fontSize>0.045</fontSize>
+         <scrollSound>./_inc/sounds/select.wav</scrollSound>
+         <forceUppercase>1</forceUppercase>
       </textlist>
-   </view>
-   <view name="video">
-      <image name="md_marquee">
-         <origin>0 0</origin>
-         <pos>1 1</pos>
-      </image>
-      <image name="md_image">
-          <pos>1 1</pos>
-          <origin>0 0</origin>
-      </image>
-      <video name="md_video">
-         <origin>0.62 0</origin>
-         <pos>1 0</pos>
-         <maxSize>1 1</maxSize>
-         <delay>0.2</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <zIndex>10</zIndex>
-      </video>
    </view>
 </theme>

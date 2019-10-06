@@ -12,7 +12,7 @@
    data-name="Calque 2"
    viewBox="0 0 1000 114"
    version="1.1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="system.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata133">
@@ -189,8 +189,8 @@
      id="namedview129"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="479.06554"
+     inkscape:zoom="0.70710682"
+     inkscape:cx="477.72351"
      inkscape:cy="57"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -199,9 +199,10 @@
   <title
      id="title2">logo</title>
   <g
-     id="g862">
+     id="g862"
+     transform="matrix(1.3207908,0,0,1.4232632,-148.82515,-21.88054)">
     <path
-       style="fill:none;stroke:#00ffff;stroke-width:1.88976378;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#00ffff;stroke-width:1.88976383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        id="path2-5"
        d="m 422.98526,26.275334 c 6.34522,0 10.20211,2.737156 13.93459,7.216132 1.36858,-1.24416 2.73716,-2.363904 4.35456,-3.359232 3.8569,-2.488324 8.21146,-3.732484 12.56602,-3.732484 h 58.47552 l -3.8569,6.096388 73.40544,-0.124416 6.71847,11.570688 5.97197,-11.446272 H 643.326 l 12.06835,9.455616 v -9.455616 h 91.81901 v 43.918848 h -84.7273 l -12.31718,-9.580032 v 9.580032 h -68.67763 v 0 l -4.6034,-7.589376 c -3.73248,4.230144 -10.45094,7.589376 -21.52396,7.589376 h -60.96384 c -1.99066,1.990656 -4.10573,2.239488 -6.59405,2.115072 l -0.62208,3.981312 h -23.51463 l 0.49767,-3.359232 c -0.24883,0.124416 -0.49767,0.373248 -0.7465,0.497664 -5.4743,3.359232 -11.6951,4.478976 -17.54265,3.1104 -4.47898,-0.995328 -8.46029,-3.483648 -11.44628,-6.718464 -3.98131,3.856896 -9.3312,6.469632 -14.43225,6.469632 l -115.58248,0.124416 -1.86624,-10.57536 -4.7278,10.57536 h -19.28448 c -6.09639,0.995328 -12.19277,0.124416 -17.66708,-2.612736 -7.46496,-3.981312 -12.4416,-10.948608 -13.18809,-18.786816 -1.36858,-13.06368 3.73248,-23.514624 14.43225,-30.108672 10.32653,-6.34522 21.27514,-7.713796 32.597,-3.732484 l 2.11507,0.7465 0.74649,-1.741828 h 21.64839 l 1.61741,9.704452 3.23481,-9.828868 h 98.91073" />
@@ -214,7 +215,8 @@
        transform="matrix(1.24416,0,0,1.24416,247.43428,25.15559)"
        style="fill:#ffffff"
        d="m 334.4,11.7 h -0.7 V 25.6 L 316.2,11.9 316,11.7 h -4.6 v 19.4 l -11.5,-19 -0.2,-0.4 h -5.9 l -0.2,0.4 -13.1,21.9 -0.6,1.1 h 7 v 0 h 9.6 v -5.2 h -6.7 l 6.7,-12.1 9.5,16.9 0.2,0.4 h 7.6 v 0 h 3.8 V 21 l 17.5,13.9 0.2,0.2 h 4.6 V 11.7 h -5.5"
-       id="polyline6-5" />
+       id="polyline6-5"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke-width:1.24416006"
        inkscape:connector-curvature="0"
@@ -224,7 +226,8 @@
        transform="matrix(1.24416,0,0,1.24416,247.43428,25.15559)"
        style="fill:#ffffff"
        d="m 395.2,29.6 h -17.8 v -4.1 h 10.7 V 20.4 H 377.4 V 17 h 18.2 v -5.3 h -24.9 v 23.4 h 25.2 v -5.5 h -0.7"
-       id="polyline10-8" />
+       id="polyline10-8"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke-width:1.24416006"
        inkscape:connector-curvature="0"
@@ -234,12 +237,14 @@
        transform="matrix(1.24416,0,0,1.24416,247.43428,25.15559)"
        style="fill:#ffffff"
        d="M 93.9,40.1 H 113 l 1.1,-7.2 h -12 l 1,-5.9 h 10.4 l 1.1,-7.2 h -10.5 l 0.9,-5.9 h 12 l 1.1,-7.2 H 99.2 l -5.3,33.4"
-       id="polyline14-4" />
+       id="polyline14-4"
+       inkscape:connector-curvature="0" />
     <path
        transform="matrix(1.24416,0,0,1.24416,247.43428,25.15559)"
        style="fill:#ffffff"
        d="M 187.1,17.6 182.9,6.7 H 175 l 8.1,17.6 -2.5,15.8 h 6.9 l 2.1,-14 12.3,-19.4 h -8 l -6.8,10.9"
-       id="polyline16-1" />
+       id="polyline16-1"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke-width:1.24416006"
        inkscape:connector-curvature="0"
