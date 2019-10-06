@@ -2,8 +2,6 @@
 
 <h1>Architect Emulationstation Theme for Retroflag GPI </h1>
 
-![Title Screen](https://i.imgur.com/SZhhMCn.png "Main Screen-Architect")
-
 Variation of the TFT theme by [anthony](https://github.com/anthonycaccese/es-theme-tft). 
 
 Controller artwork originally from Carbon theme
