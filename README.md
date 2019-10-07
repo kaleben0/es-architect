@@ -20,6 +20,13 @@ Works for Basic & Detail View
 | --- | --- | ---
 | ![Screenshot2](/screenshots/architect-detail-list.png) | ![Screenshot3](/screenshots/architect-basic-list.png) | ![Screenshot4](/screenshots/background-grid.png)
 
+<h3>Launch Screens</h3>
+
+| Atari 2600 | N64 |
+| --- | --- |
+| ![Screenshot7](/screenshots/launching.png) | ![Screenshot8](/screenshots/launching_2.png) |
+
+
 <h3>Supported Retropie Features</h3>
 
 * RetroPie Menu 
