@@ -11,7 +11,7 @@
 
 <h4>Main Screen</h4>
 
-![Screenshot1](/screenshots/architect-main.png)
+![Screenshot1](/screenshots/architect.png)
 
 | Detailed View | Basic View | Detailed w/o Box Art
 | --- | --- | ---
