@@ -41,8 +41,9 @@
 | Atari 7800 | Nintendo GameBoy | Sega Master System | Mame
 | Atari Lynx | Nintendo GameBoy Advance | Sega32x | NeoGeo Pocket Color
 |  | Nintendo GameBoy Color | SegaCD |  Odyssey 2 / Videopac
-|  |  Nintendo VirtualBoy |  | PC Engine SuperGrafx
-|  |  |  | PC Engine TurboGrafx 16
+|  |  Nintendo VirtualBoy |  | PC Engine 
+|  |  |  | SuperGrafx
+|  |  |  | TurboGrafx 16
 |  |  |  | Sony Playstation
 |  |  |  | Ports 
 
