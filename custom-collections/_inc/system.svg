@@ -11,7 +11,7 @@
    data-name="Calque 2"
    viewBox="0 0 1000 114"
    version="1.1"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="system.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata133">
@@ -40,8 +40,8 @@
      inkscape:window-height="1017"
      id="namedview129"
      showgrid="false"
-     inkscape:zoom="1.6065466"
-     inkscape:cx="476.29394"
+     inkscape:zoom="1.136"
+     inkscape:cx="534.18445"
      inkscape:cy="32.101874"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -103,166 +103,190 @@
        x="301.88977"
        y="187.65596" /></text>
   <g
-     id="g966">
-    <g
-       aria-label="COLLECTIONS"
-       transform="scale(0.85877412,1.1644505)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.39538574px;line-height:1.25;font-family:'Ghost Clan';-inkscape-font-specification:'Ghost Clan';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="text860-5">
-      <path
-         d="m 406.33053,67.667381 q -0.18702,9.288595 -7.16905,16.332965 -7.04437,7.04437 -16.20828,7.04437 -9.22626,0 -16.39531,-7.04437 -7.04437,-7.16905 -7.04437,-16.332965 V 29.328552 q 0,-9.226254 7.04437,-16.270625 7.10671,-7.1067094 16.39531,-7.1067094 9.22625,0 16.14594,7.1067094 6.98203,7.044371 7.23139,16.270625 h -12.77961 q -0.37403,-4.301429 -3.42867,-7.418407 -3.05464,-3.241657 -7.16905,-3.241657 -4.11441,0 -7.41841,3.303996 -3.24166,3.241657 -3.24166,7.356068 v 38.338829 q 0,4.114411 3.24166,7.356068 3.24166,3.241657 7.41841,3.241657 4.05207,0 7.16905,-3.179317 3.05464,-3.116978 3.42867,-7.418408 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path968" />
-      <path
-         d="m 461.31402,67.667381 q 0,9.226255 -7.10671,16.332965 -7.04437,7.04437 -16.33296,7.04437 -9.16392,0 -16.33296,-7.04437 -7.04438,-7.16905 -7.04438,-16.332965 V 29.328552 q 0,-9.226254 7.04438,-16.270625 7.1067,-7.1067094 16.33296,-7.1067094 9.28859,0 16.33296,7.1067094 7.10671,7.044371 7.10671,16.270625 z m -12.77961,0 V 29.328552 q 0,-4.114411 -3.24165,-7.356068 -3.304,-3.303996 -7.41841,-3.303996 -4.11441,0 -7.41841,3.303996 -3.24165,3.241657 -3.24165,7.356068 v 38.338829 q 0,4.114411 3.24165,7.356068 3.24166,3.241657 7.41841,3.241657 4.17675,0 7.41841,-3.241657 3.24165,-3.241657 3.24165,-7.356068 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path970" />
-      <path
-         d="m 510.74929,91.044716 h -32.97763 q -3.42867,0 -5.98459,-2.555922 -2.55593,-2.555922 -2.55593,-5.984598 V 5.9512176 h 12.77961 V 78.265106 h 28.73854 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path972" />
-      <path
-         d="m 560.37157,91.044716 h -32.97762 q -3.42868,0 -5.9846,-2.555922 -2.55592,-2.555922 -2.55592,-5.984598 V 5.9512176 h 12.77961 V 78.265106 h 28.73853 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path974" />
-      <path
-         d="m 609.99387,91.044716 h -32.97762 q -3.42868,0 -5.9846,-2.555922 -2.55592,-2.555922 -2.55592,-5.984598 V 14.429398 q 0,-3.366337 2.55592,-5.9222585 2.55592,-2.5559219 5.9846,-2.5559219 h 32.97762 V 18.668488 h -28.73853 v 23.439674 h 18.07847 v 12.77961 h -18.07847 v 23.377334 h 28.73853 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path976" />
-      <path
-         d="m 667.4086,67.667381 q -0.18702,9.288595 -7.16905,16.332965 -7.04437,7.04437 -16.20829,7.04437 -9.22625,0 -16.3953,-7.04437 -7.04437,-7.16905 -7.04437,-16.332965 V 29.328552 q 0,-9.226254 7.04437,-16.270625 7.10671,-7.1067094 16.3953,-7.1067094 9.22626,0 16.14595,7.1067094 6.98203,7.044371 7.23139,16.270625 h -12.77961 q -0.37404,-4.301429 -3.42868,-7.418407 -3.05464,-3.241657 -7.16905,-3.241657 -4.11441,0 -7.41841,3.303996 -3.24165,3.241657 -3.24165,7.356068 v 38.338829 q 0,4.114411 3.24165,7.356068 3.24166,3.241657 7.41841,3.241657 4.05207,0 7.16905,-3.179317 3.05464,-3.116978 3.42868,-7.418408 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path978" />
-      <path
-         d="m 720.77125,18.668488 h -17.0187 V 91.044716 H 690.97294 V 18.668488 h -17.0187 V 5.9512176 h 46.81701 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path980" />
-      <path
-         d="M 739.84718,91.044716 H 727.06757 V 5.9512176 h 12.77961 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path982" />
-      <path
-         d="m 794.70598,67.667381 q 0,9.226255 -7.10671,16.332965 -7.04437,7.04437 -16.33296,7.04437 -9.16392,0 -16.33296,-7.04437 -7.04437,-7.16905 -7.04437,-16.332965 V 29.328552 q 0,-9.226254 7.04437,-16.270625 7.10671,-7.1067094 16.33296,-7.1067094 9.28859,0 16.33296,7.1067094 7.10671,7.044371 7.10671,16.270625 z m -12.77961,0 V 29.328552 q 0,-4.114411 -3.24165,-7.356068 -3.304,-3.303996 -7.41841,-3.303996 -4.11441,0 -7.41841,3.303996 -3.24165,3.241657 -3.24165,7.356068 v 38.338829 q 0,4.114411 3.24165,7.356068 3.24166,3.241657 7.41841,3.241657 4.17675,0 7.41841,-3.241657 3.24165,-3.241657 3.24165,-7.356068 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path984" />
-      <path
-         d="m 849.44012,82.504196 q 0,3.303997 -2.43124,5.922258 -2.36891,2.618262 -5.54822,2.618262 -4.80015,0 -8.29116,-8.54052 L 815.40272,39.427561 V 91.044716 H 802.62311 V 14.429398 q 0,-3.303997 2.36891,-5.8599189 2.43124,-2.6182615 5.61056,-2.6182615 4.86248,0 8.29116,8.4781804 l 17.76677,43.076635 V 5.9512176 h 12.77961 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path986" />
-      <path
-         d="m 907.04187,67.667381 q 0,9.226255 -7.10671,16.332965 -7.04437,7.04437 -16.27063,7.04437 -9.28859,0 -16.20828,-7.04437 -6.98203,-7.16905 -7.23139,-16.332965 h 12.77961 q 0.56105,4.176751 3.49101,7.418408 2.9923,3.179317 7.16905,3.179317 4.73781,0 7.85479,-4.052071 2.74294,-3.678034 2.74294,-8.727538 0,-4.114411 -3.24166,-7.356068 -3.24166,-3.241657 -7.35607,-3.241657 -9.22625,0 -16.3953,-7.044371 -7.04437,-7.169049 -7.04437,-16.395304 v -2.119545 q 0,-9.226254 7.04437,-16.270625 7.10671,-7.1067094 16.3953,-7.1067094 9.22626,0 16.14595,7.1067094 6.98203,7.044371 7.23139,16.270625 h -12.77961 q -0.43638,-4.17675 -3.49102,-7.418407 -2.9923,-3.241657 -7.10671,-3.241657 -4.86248,0 -7.7301,3.927392 -2.92996,3.865053 -2.92996,8.852217 0,4.176751 3.24165,7.418408 3.24166,3.241657 7.41841,3.241657 9.22626,0 16.27063,7.10671 7.10671,7.04437 7.10671,16.270625 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path988" />
-    </g>
+     id="g970">
+    <path
+       sodipodi:nodetypes="ccscssssccccc"
+       inkscape:connector-curvature="0"
+       id="path968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.75839353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 337.86052,67.535858 c -0.1207,7.199153 -1.99414,22.991638 -6.5006,28.451398 -4.54669,5.459764 -9.77739,8.189644 -15.6921,8.189644 -5.95497,0 -11.24603,-2.72988 -15.87318,-8.189644 -4.54669,-5.556394 -6.82003,-11.885851 -6.82003,-18.98837 V 32.426951 c 0,-7.150836 2.27334,-13.456134 6.82003,-18.915894 4.58692,-5.5080771 9.87798,-8.2621154 15.87318,-8.2621154 5.95495,0 11.16553,2.7540383 15.63175,8.2621154 4.50645,5.45976 7.06022,26.069636 7.22116,33.220472 l -20.07509,0.22007 c 0.27164,12.217138 0.0472,0.247682 0,20.804329 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path970"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 380.31947,77.034753 q 0,10.743517 -6.10306,19.018929 -6.04952,8.202828 -14.02632,8.202828 -7.86974,0 -14.02632,-8.202828 -6.04953,-8.348004 -6.04953,-19.018929 V 32.391084 q 0,-10.743516 6.04953,-18.946337 6.10305,-8.2754121 14.02632,-8.2754121 7.9768,0 14.02632,8.2754121 6.10306,8.202821 6.10306,18.946337 z m -10.9748,0 V 32.391084 q 0,-4.791028 -2.78384,-8.565777 -2.83739,-3.84734 -6.37074,-3.84734 -3.53335,0 -6.37074,3.84734 -2.78384,3.774749 -2.78384,8.565777 v 44.643669 q 0,4.791028 2.78384,8.565777 2.78385,3.774749 6.37074,3.774749 3.58688,0 6.37074,-3.774749 2.78384,-3.774749 2.78384,-8.565777 z" />
+    <path
+       sodipodi:nodetypes="cscsccccc"
+       inkscape:connector-curvature="0"
+       id="path972"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 426.5144,104.03644 -32.06153,0.22007 c -1.96293,0.0135 -3.67611,-0.99208 -5.13941,-2.97625 -1.46331,-1.984163 -2.19497,-4.307086 -2.19497,-6.968771 V 5.1693349 h 18.89734 l -0.22008,71.0017191 20.71865,0.22007 z" />
+    <path
+       sodipodi:nodetypes="cscsscscccccccccc"
+       inkscape:connector-curvature="0"
+       id="path976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.79166126;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 513.62788,104.16068 h -32.71291 c -2.26744,0 -4.24629,-0.99017 -5.93656,-2.9705 -1.69027,-1.980323 -2.53541,-4.29875 -2.53541,-6.955287 v -79.1164 c 0,-2.608233 0.84514,-4.902513 2.53541,-6.8828381 1.69027,-1.980325 3.66912,-2.9704875 5.93656,-2.9704875 h 32.71291 l 0.22007,28.4243536 h -22.78602 l -0.22007,9.41584 12.4316,0.22007 -0.22007,23.875328 H 491.282 v 11.984233 l 22.34588,-0.220071 z" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path980"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.69350481;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 603.51155,34.961775 h -10.49931 l -0.47282,69.467695 -22.19165,0.21986 0.23641,-69.907417 -8.86079,-2.08e-4 -1.1657,-29.5250348 h 43.19027 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path982"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.94700003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 622.86418,104.08303 H 608.71522 V 5.3428191 h 14.14896 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 666.62786,77.034753 q 0,10.743517 -6.10306,19.018929 -6.04952,8.202828 -14.02632,8.202828 -7.86974,0 -14.02633,-8.202828 -6.04952,-8.348004 -6.04952,-19.018929 V 32.391084 q 0,-10.743516 6.04952,-18.946337 6.10306,-8.2754121 14.02633,-8.2754121 7.9768,0 14.02632,8.2754121 6.10306,8.202821 6.10306,18.946337 z m -10.9748,0 V 32.391084 q 0,-4.791028 -2.78384,-8.565777 -2.83739,-3.84734 -6.37074,-3.84734 -3.53335,0 -6.37074,3.84734 -2.78385,3.774749 -2.78385,8.565777 v 44.643669 q 0,4.791028 2.78385,8.565777 2.78385,3.774749 6.37074,3.774749 3.58688,0 6.37074,-3.774749 2.78384,-3.774749 2.78384,-8.565777 z" />
+    <path
+       sodipodi:nodetypes="scsccccscsccccs"
+       inkscape:connector-curvature="0"
+       id="path986"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.70669627;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 715.99965,94.268754 c 0,2.562131 -0.75508,4.858383 -2.26521,6.888746 -1.47142,2.03038 -5.58186,3.51634 -7.42525,2.82556 -4.10954,-1.53998 -6.0209,-6.391562 -9.38312,-13.014429 l -7.38666,-21.745449 0.23875,34.979878 H 672.37978 V 15.084414 c 0,-2.562132 0.73571,-4.83421 2.20713,-6.8162364 1.51015,-2.0303676 3.25263,-3.0455514 5.22742,-3.0455514 3.02029,0 6.72323,1.307288 8.85291,7.8818118 l 7.98098,22.606919 -0.67679,-30.9287253 20.02822,0.4399945 z" />
+    <path
+       sodipodi:nodetypes="ssscccsssscccss"
+       inkscape:connector-curvature="0"
+       id="path988"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.65835929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 764.97842,77.021625 c 0,7.158133 -2.12796,13.494047 -6.38387,19.007744 -4.2186,5.465341 -9.09051,8.198001 -14.61574,8.198001 -5.56257,0 -10.41581,-2.73266 -14.55973,-8.198001 -4.18126,-5.562063 -6.34655,-11.897978 -6.49588,-19.007744 3.72509,-10.715563 3.83902,-12.05888 3.79572,-22.850527 -2.83741,-9.301058 -3.79572,-12.1421 -3.79572,-19.300233 v -2.466653 c 0,-7.158132 2.1093,-13.469863 6.32788,-18.935194 4.25593,-5.5136971 9.16516,-8.2705454 14.72773,-8.2705454 5.52523,0 10.35981,2.7568483 14.50373,8.2705454 4.18126,5.465331 7.95792,19.474997 8.10725,26.633129 1.14095,6.780957 -24.13204,-4.49943 -5.69328,11.706084 4.25591,5.46533 4.08191,15.51606 4.08191,22.674192 z" />
     <g
        aria-label="c"
-       transform="scale(0.88652282,1.1280025)"
+       transform="matrix(0.88652282,0,0,1.1280025,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.36030579px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12800264"
        id="text858">
       <path
          d="m 393.59624,67.439958 q -0.19828,7.865174 -6.14673,13.879719 -5.94845,5.94845 -13.68144,5.94845 -7.86517,0 -13.87971,-6.014544 -6.01455,-6.014545 -6.01455,-13.813625 V 34.921759 q 0,-7.79908 6.01455,-13.813625 6.01454,-6.014545 13.87971,-6.014545 7.73299,0 13.68144,6.014545 5.94845,5.948451 6.14673,13.813625 h -10.8394 q -0.46265,-3.635164 -2.77594,-6.212826 -2.70985,-2.775944 -6.21283,-2.775944 -3.63516,0 -6.34501,2.70985 -2.70985,2.70985 -2.70985,6.27892 v 32.518199 q 0,3.56907 2.70985,6.27892 2.70985,2.70985 6.34501,2.70985 3.56907,0 6.21283,-2.842038 2.24719,-2.577662 2.77594,-6.146732 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.12800264"
-         id="path991" />
+         id="path991"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="o"
-       transform="scale(0.8151333,1.2267932)"
+       transform="matrix(0.8151333,0,0,1.2267932,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.36323547px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.0530268"
        id="text862">
       <path
          d="m 479.19363,61.730414 q 0,7.280695 -5.61477,12.895467 -5.61477,5.614773 -12.89547,5.614773 -7.28069,0 -12.89546,-5.614773 -5.61478,-5.614772 -5.61478,-12.895467 V 31.373622 q 0,-7.280695 5.61478,-12.895467 5.61477,-5.614773 12.89546,-5.614773 7.2807,0 12.89547,5.614773 5.61477,5.614772 5.61477,12.895467 z m -10.05723,0 V 31.373622 q 0,-3.331844 -2.52973,-5.861576 -2.52973,-2.529733 -5.92328,-2.529733 -3.39354,0 -5.92327,2.529733 -2.46804,2.468032 -2.46804,5.861576 v 30.356792 q 0,3.393544 2.46804,5.861576 2.52973,2.529733 5.92327,2.529733 3.39355,0 5.92328,-2.529733 2.52973,-2.529732 2.52973,-5.861576 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.0530268"
-         id="path994" />
+         id="path994"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="l"
-       transform="scale(0.89337957,1.1193451)"
+       transform="matrix(0.89337957,0,0,1.1193451,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.32141113px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11934507"
        id="text866">
       <path
          d="m 490.62647,86.830917 h -27.74314 q -2.82023,0 -5.05017,-2.164358 -2.16436,-2.229946 -2.16436,-4.984584 V 15.210321 h 10.7562 v 60.86439 h 24.20147 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.11934507"
-         id="path997" />
+         id="path997"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="e"
-       transform="scale(0.86371144,1.1577941)"
+       transform="matrix(0.86371144,0,0,1.1577941,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:138.93528748px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15779412"
        id="text870">
       <path
          d="m 605.49073,85.560226 h -28.69611 q -2.9171,0 -5.22364,-2.238703 -2.2387,-2.306543 -2.2387,-5.155802 V 18.874002 q 0,-2.917098 2.2387,-5.155802 2.30654,-2.238703 5.22364,-2.238703 h 28.69611 v 11.125677 h -25.03278 v 20.351849 h 15.73877 V 54.0827 h -15.73877 v 20.351849 h 25.03278 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.15779412"
-         id="path1000" />
+         id="path1000"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="t"
-       transform="scale(0.87652743,1.1408656)"
+       transform="matrix(0.87652743,0,0,1.1408656,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:136.90386963px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.14086568"
        id="text874">
       <path
          d="M 702.44786,23.158435 H 687.80824 V 85.193001 H 676.91208 V 23.158435 H 662.27246 V 12.19543 h 40.1754 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.14086568"
-         id="path1003" />
+         id="path1003"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="i"
-       transform="scale(0.87004865,1.149361)"
+       transform="matrix(0.87004865,0,0,1.149361,-15.40493,-1.9806338)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.92332458px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.14936101"
        id="text878">
       <path
          d="M 730.76155,85.646431 H 719.71691 V 12.105283 h 11.04464 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.14936101"
-         id="path1006" />
+         id="path1006"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="n"
-       transform="scale(0.87004865,1.149361)"
+       transform="matrix(0.87004865,0,0,1.149361,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.92332458px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.14936101"
        id="text882">
       <path
          d="m 836.02632,77.764228 q 0,2.828506 -2.08771,5.118248 -2.02036,2.222398 -4.78152,2.222398 -4.24276,0 -7.13861,-7.340646 L 806.59639,40.522237 V 85.104874 H 795.55175 V 18.904372 q 0,-2.963197 2.08771,-5.118249 2.0877,-2.222397 4.84886,-2.222397 4.10807,0 7.13861,7.340646 l 15.35475,37.241991 V 11.563726 h 11.04464 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.14936101"
-         id="path1009" />
+         id="path1009"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="s"
-       transform="scale(0.82369967,1.2140347)"
+       transform="matrix(0.82369967,0,0,1.2140347,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.38378906px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12819815"
        id="text886">
       <path
          d="m 942.01198,63.303148 q 0,7.734328 -6.0817,13.816022 -6.01558,6.015588 -13.74991,6.015588 -7.80044,0 -13.74992,-5.949483 -5.88338,-6.015588 -6.1478,-13.882127 h 10.84128 q 0.52885,3.635795 2.97474,6.28001 2.57811,2.71032 6.0817,2.71032 4.03242,0 6.61053,-3.503584 2.3798,-3.173058 2.3798,-7.337696 0,-3.56969 -2.71032,-6.28001 -2.71032,-2.71032 -6.28001,-2.71032 -8.46149,0 -14.21266,-6.544431 -5.68506,-6.610536 -5.68506,-15.138129 0,-7.800433 6.01559,-13.816021 6.01559,-6.015588 13.88213,-6.015588 7.73433,0 13.68381,6.015588 5.94948,5.949483 6.1478,13.816021 H 931.1707 q -0.46274,-3.569689 -2.97474,-6.280009 -2.51201,-2.71032 -6.01559,-2.71032 -4.09854,0 -6.61054,3.305268 -2.4459,3.239163 -2.4459,7.469906 0,3.635795 2.71032,6.346115 2.71032,2.71032 6.34612,2.71032 8.39538,0 14.27876,6.676642 5.55285,6.478326 5.55285,15.005918 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.12819815"
-         id="path1012" />
+         id="path1012"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="l"
-       transform="scale(0.89337954,1.1193451)"
+       transform="matrix(0.89337954,0,0,1.1193451,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.32141113px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.11934507"
        id="text866-7">
       <path
          d="m 537.94352,87.607742 h -27.74315 q -2.82022,0 -5.05017,-2.164358 -2.16436,-2.229946 -2.16436,-4.984584 V 15.987146 h 10.75621 v 60.86439 h 24.20147 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.11934507"
-         id="path1015" />
+         id="path1015"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="c"
-       transform="scale(0.85140224,1.174533)"
+       transform="matrix(0.85140224,0,0,1.174533,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.96133423px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13301134"
        id="text858-1">
       <path
          d="m 671.35216,64.635013 q -0.19916,7.900097 -6.17402,13.941347 -5.97487,5.974864 -13.74219,5.974864 -7.9001,0 -13.94135,-6.041251 -6.04125,-6.041251 -6.04125,-13.87496 V 31.972427 q 0,-7.83371 6.04125,-13.874961 6.04125,-6.041251 13.94135,-6.041251 7.76732,0 13.74219,6.041251 5.97486,5.974863 6.17402,13.874961 h -10.88753 q -0.46471,-3.651306 -2.78827,-6.240413 -2.72188,-2.78827 -6.24041,-2.78827 -3.65131,0 -6.37319,2.721882 -2.72188,2.721883 -2.72188,6.306801 v 32.662586 q 0,3.584918 2.72188,6.3068 2.72188,2.721882 6.37319,2.721882 3.58492,0 6.24041,-2.854657 2.25717,-2.589107 2.78827,-6.174025 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.13301134"
-         id="path1018" />
+         id="path1018"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="o"
-       transform="scale(0.81002943,1.2345231)"
+       transform="matrix(0.81002943,0,0,1.2345231,-15.84507,-1.7605634)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.02818298px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12523472"
        id="text862-5">
       <path
          d="m 837.77624,61.671462 q 0,7.779944 -5.99978,13.779732 -5.99979,5.999787 -13.77974,5.999787 -7.77994,0 -13.77973,-5.999787 -5.99978,-5.999788 -5.99978,-13.779732 V 29.233051 q 0,-7.779944 5.99978,-13.779732 5.99979,-5.999787 13.77973,-5.999787 7.77995,0 13.77974,5.999787 5.99978,5.999788 5.99978,13.779732 z m -10.74687,0 V 29.233051 q 0,-3.560313 -2.7032,-6.263514 -2.7032,-2.703201 -6.32945,-2.703201 -3.62624,0 -6.32944,2.703201 -2.63727,2.637269 -2.63727,6.263514 v 32.438411 q 0,3.626245 2.63727,6.263514 2.7032,2.703201 6.32944,2.703201 3.62625,0 6.32945,-2.703201 2.7032,-2.7032 2.7032,-6.263514 z"
          style="fill:#ffffff;fill-opacity:1;stroke-width:1.12523472"
-         id="path1021" />
+         id="path1021"
+         inkscape:connector-curvature="0" />
     </g>
+    <path
+       sodipodi:nodetypes="cscsccccc"
+       inkscape:connector-curvature="0"
+       id="path972-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.59999633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 468.64162,104.12451 -32.06153,0.22007 c -1.96293,0.0135 -3.67611,-0.99208 -5.13941,-2.97625 -1.46331,-1.984163 -2.19497,-4.307081 -2.19497,-6.968771 V 5.2574077 h 18.89734 l -0.22008,71.0017213 20.71865,0.22007 z" />
+    <path
+       sodipodi:nodetypes="ccscssssccccc"
+       inkscape:connector-curvature="0"
+       id="path968-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.67141724px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:2.75839353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 561.26986,66.743712 c -0.1207,7.19916 -1.99414,22.991636 -6.5006,28.451396 -4.54669,5.459762 -9.77739,8.189642 -15.6921,8.189642 -5.95497,0 -11.24603,-2.72988 -15.87318,-8.189642 -4.54669,-5.55639 -6.82003,-11.885846 -6.82003,-18.988366 V 31.634807 c 0,-7.150836 2.27334,-13.456134 6.82003,-18.915894 4.58692,-5.5080775 9.87798,-8.2621155 15.87318,-8.2621155 5.95495,0 11.16553,2.754038 15.63175,8.2621155 4.50645,5.45976 7.06022,26.069636 7.22116,33.220472 l -20.07509,0.22007 c 0.27164,12.217137 0.0472,0.247682 0,20.804327 z" />
   </g>
 </svg>
