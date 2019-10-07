@@ -27,9 +27,9 @@ credit:         controller artwork originally from Carbon theme / variation of T
       <image name="controller" extra="true">
         <origin>0.5 0</origin>
         <pos>0.5 0.12</pos>
+         <color>00ffffff</color>
         <maxSize>0.5 0.5</maxSize>
          <zIndex>5</zIndex>
-	<color>ffffffff</color>
       </image>
       <carousel name="systemcarousel">
          <type>vertical_wheel</type>
