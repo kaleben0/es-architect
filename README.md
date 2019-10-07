@@ -53,7 +53,7 @@ Works for Basic & Detail View
 * The theme will now show as an option in Emulationstation
 
 
-<h3>To add launching images</h3>
+<h3>To add launch images</h3>
 
 <h2>Warning : Backup up your /opt/retropie/configs dir before doing this!</h2>
 
