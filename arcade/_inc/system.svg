@@ -10,7 +10,7 @@
    viewBox="0 0 1000 114"
    version="1.1"
    id="svg268"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="system.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata274">
@@ -41,16 +41,20 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="1.136"
-     inkscape:cx="344.83306"
+     inkscape:cx="437.01389"
      inkscape:cy="57"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg268" />
   <title
      id="title2">logo</title>
   <g
-     id="g1337">
+     id="g1337"
+     transform="translate(9.6830986,0.88028169)"
+     inkscape:export-filename="D:\Redman\Desktop\logo-png\arcade.png"
+     inkscape:export-xdpi="201.32001"
+     inkscape:export-ydpi="201.32001">
     <path
        d="m 288.79916,29.819155 c 0.88,0 1.32,1.3 1.32,3.89 0,2.59 -0.44,3.89 -1.32,3.89 h -18.12 c -0.82,0 -1.24,-1.29 -1.24,-3.89 0,-2.6 0.41,-3.89 1.24,-3.89 h 18.12 m 0,-6.999996 h -18.12 a 7.73,7.73 0 0 0 -5.49,2.29 c -2.45,2.45 -2.76,5.889996 -2.75,8.619996 0,10.09 6.31,10.87 8.24,10.87 h 18.12 c 1.39,0 8.32,-0.52 8.32,-10.89 0,-10.369996 -6.93,-10.889996 -8.32,-10.889996 z"
        id="path11"

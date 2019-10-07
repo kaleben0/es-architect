@@ -13,7 +13,10 @@
    viewBox="0 0 1000 114"
    version="1.1"
    sodipodi:docname="system.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="D:\Redman\Desktop\logo-png\allgames.png"
+   inkscape:export-xdpi="241.94"
+   inkscape:export-ydpi="241.94">
   <metadata
      id="metadata133">
     <rdf:RDF>
@@ -51,7 +54,7 @@
      id="namedview129"
      showgrid="false"
      inkscape:zoom="1.136"
-     inkscape:cx="501.073"
+     inkscape:cx="350.98497"
      inkscape:cy="30.591549"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -243,7 +246,7 @@
        sodipodi:role="line"
        id="tspan4725"
        x="421.71201"
-       y="191.39069"></tspan></text>
+       y="191.39069" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666667px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -253,7 +256,7 @@
        sodipodi:role="line"
        id="tspan4745"
        x="411.44153"
-       y="179.87529"></tspan></text>
+       y="179.87529" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666667px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -263,7 +266,7 @@
        sodipodi:role="line"
        id="tspan4749"
        x="418.28851"
-       y="192.01314"></tspan></text>
+       y="192.01314" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1.25;font-family:'SF Atarian System';-inkscape-font-specification:'SF Atarian System';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -273,5 +276,5 @@
        sodipodi:role="line"
        id="tspan4753"
        x="419.53342"
-       y="162.9886"></tspan></text>
+       y="162.9886" /></text>
 </svg>
