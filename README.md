@@ -2,13 +2,10 @@
 
 <h1>Architect Emulationstation Theme for Retroflag GPI </h1>
 
-Variation of the TFT theme by [anthony](https://github.com/anthonycaccese/es-theme-tft). 
-
-Controller artwork originally from Carbon theme
-
-OpenSans Font from Google Fonts
-
-Works for Basic & Detail View
+* Controller artwork originally from Carbon theme
+* OpenSans Font from Google Fonts
+* Works for Basic & Detail View (No Video or Grid)
+* Includes Launchscreens in /_inc/media/launchscreens
 
 <h3>Screenshots</h3>
 
