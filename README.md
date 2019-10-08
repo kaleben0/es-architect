@@ -40,7 +40,7 @@
 | Atari 5200 |  Nintendo Entertainment System | Sega Genesis / Sega Megadrive | Colecovision 
 | Atari 7800 | Nintendo GameBoy | Sega Master System | Mame
 | Atari Lynx | Nintendo GameBoy Advance | Sega32x | NeoGeo Pocket Color
-|  | Nintendo GameBoy Color | SegaCD |  Odyssey 2 / Videopac
+| Atari ST | Nintendo GameBoy Color | SegaCD |  Odyssey 2 / Videopac
 |  |  Nintendo VirtualBoy |  | PC Engine 
 |  |  |  | SuperGrafx
 |  |  |  | TurboGrafx 16
